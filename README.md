@@ -1,0 +1,1 @@
+This is Smidge08's first git project!
